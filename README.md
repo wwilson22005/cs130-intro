@@ -35,8 +35,8 @@ To learn more about branching, read ["About Branches"](https://docs.github.com/e
 A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
 To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-### Your assignment
-Follow the instructions on Canvas for how to clone your repo using VSC.  You've been provided with a test file so you can test your code. 
+# Your assignment
+Your assignment is to fix the code in the files adding.py and averaging.py. Do this by cloning the entire repo, doing the fixes in VSC, and then add/commit/push to github. Follow the instructions on Canvas for how to do this. 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
